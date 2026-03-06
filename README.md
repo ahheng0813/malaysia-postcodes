@@ -74,6 +74,10 @@ For the latest updates, see the [Changelog](CHANGELOG.md).
 
 For those interested in installing this dataset via NPM, you can do so with our [malaysia-postcodes](https://github.com/AsyrafHussin/npm-malaysia-postcodes) package.
 
+## Related
+
+Looking for Malaysia Parliament and DUN constituency data? Check out [malaysia-parliament-dun](https://github.com/AsyrafHussin/malaysia-parliament-dun) — a comprehensive list of Malaysia Parliament (Parlimen) and State Assembly (DUN) constituencies based on GE15 2022, available in JSON format.
+
 ## Contributing
 
 If you find any inaccuracies, typos, or missing data, we welcome contributions! Please feel free to open an issue or submit a pull request.
