@@ -1,8 +1,8 @@
 {
-  "state": [
+  "states": [
     {
       "name": "Wp Kuala Lumpur",
-      "city": [
+      "cities": [
         {
           "name": "Kuala Lumpur",
           "postcode": [
@@ -314,7 +314,7 @@
     },
     {
       "name": "Johor",
-      "city": [
+      "cities": [
         {
           "name": "Ayer Baloi",
           "postcode": ["82100"]
@@ -702,7 +702,7 @@
     },
     {
       "name": "Kedah",
-      "city": [
+      "cities": [
         {
           "name": "Alor Setar",
           "postcode": [
@@ -929,7 +929,7 @@
     },
     {
       "name": "Kelantan",
-      "city": [
+      "cities": [
         {
           "name": "Ayer Lanas",
           "postcode": ["17700"]
@@ -1140,7 +1140,7 @@
     },
     {
       "name": "Melaka",
-      "city": [
+      "cities": [
         {
           "name": "Alor Gajah",
           "postcode": ["78000", "78009"]
@@ -1223,7 +1223,7 @@
     },
     {
       "name": "Negeri Sembilan",
-      "city": [
+      "cities": [
         {
           "name": "Bahau",
           "postcode": ["72100", "72107", "72109"]
@@ -1401,7 +1401,7 @@
     },
     {
       "name": "Pahang",
-      "city": [
+      "cities": [
         {
           "name": "Balok",
           "postcode": ["26080", "26100", "26150", "26190"]
@@ -1709,7 +1709,7 @@
     },
     {
       "name": "Pulau Pinang",
-      "city": [
+      "cities": [
         {
           "name": "Ayer Itam",
           "postcode": ["11500"]
@@ -1907,7 +1907,7 @@
     },
     {
       "name": "Perak",
-      "city": [
+      "cities": [
         {
           "name": "Ayer Tawar",
           "postcode": ["32400"]
@@ -2335,7 +2335,7 @@
     },
     {
       "name": "Perlis",
-      "city": [
+      "cities": [
         {
           "name": "Arau",
           "postcode": ["02600", "02607", "02609"]
@@ -2432,7 +2432,7 @@
     },
     {
       "name": "Sabah",
-      "city": [
+      "cities": [
         {
           "name": "Beaufort",
           "postcode": ["89800", "89807", "89808", "89809"]
@@ -2893,7 +2893,7 @@
     },
     {
       "name": "Sarawak",
-      "city": [
+      "cities": [
         {
           "name": "Asajaya",
           "postcode": ["94600"]
@@ -3226,7 +3226,7 @@
     },
     {
       "name": "Selangor",
-      "city": [
+      "cities": [
         {
           "name": "Ampang",
           "postcode": ["68000"]
@@ -3687,7 +3687,7 @@
     },
     {
       "name": "Terengganu",
-      "city": [
+      "cities": [
         {
           "name": "Ajil",
           "postcode": ["21800", "21810", "21820"]
@@ -3908,7 +3908,7 @@
     },
     {
       "name": "Wp Labuan",
-      "city": [
+      "cities": [
         {
           "name": "Labuan",
           "postcode": [
@@ -3945,7 +3945,7 @@
     },
     {
       "name": "Wp Putrajaya",
-      "city": [
+      "cities": [
         {
           "name": "Putrajaya",
           "postcode": [
